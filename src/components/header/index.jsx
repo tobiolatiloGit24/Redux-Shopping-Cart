@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+// console.log()
 export default function Header() {
   return (
     <div>
